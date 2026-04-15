@@ -20,7 +20,7 @@ Decode the ciphertext using ROT13.
 
 ## Solution
 
-ROT13 shifts each alphabetical character by 13 positions. Since the alphabet has 26 letters, applying it twice returns the original — it is its own inverse.
+ROT13 shifts each alphabetical character by 13 positions. Since the alphabet has 26 letters, applying it twice returns the original it is its own inverse.
 
 Decode via terminal:
 
